@@ -1,0 +1,131 @@
+body {
+    margin: 0px;
+    padding: 20px 100px;
+  }
+  
+  h1 {
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  p {
+    font-size: 40px;
+    text-align: justify;
+  }
+  
+  .btn {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    border: solid gray 2px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  #white {
+    background-color: rgb(226, 226, 238);
+  }
+  
+  #aqua {
+    background-color: aquamarine;
+  }
+  
+  #violet {
+    background-color: #ce9aff;
+  }
+  
+  #black {
+    background-color: black;
+  }
+  
+  #yellow {
+    background-color: #ffff00;
+  }
+  
+  #darkgreen {
+    background-color: darkgreen;
+  }
+  
+  #lightgreen {
+    background-color: lightgreen;
+  }
+  
+  #red{
+    background-color: red;
+  }
+  
+  #blue{
+    background-color: blue;
+  }
+  #color-Switcher {
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px;
+    border-radius: 100%
+  }
+  
+  body {
+    margin: 0px;
+  }
+  
+  .slide-container {
+    position: relative;
+    width: 100%;
+  }
+  
+  .slide img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .arrow {
+    cursor: pointer;
+    position: absolute;
+    top: 30%;
+    color: black;
+    background-color: antiquewhite;
+    padding: 8px 10px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 55%;
+  }
+  
+  .next {
+    right: 10px;
+  }
+  
+  .prev {
+    left: 10px;
+  }
+  
+  .caption {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 1, 0.5);
+    padding: 15px 0px;
+  }
+  
+  .slide {
+    display: none;
+  }
+  
+  .slide img {
+    width: 100%;
+    height: 650px;
+  }
+  
+  .slide #mujju {
+    width: 650px;
+    height: 650px;
+  }
+  

@@ -1,0 +1,49 @@
+body {
+    margin: 0px;
+    background-color: aqua;
+
+}
+
+#header {
+    text-align: center;
+}
+
+#logo {
+    width: 300px;
+    height: 300px;
+    height: auto;
+}
+
+#menu-bar {
+    background-color: cadetblue;
+    text-align: center;
+
+}
+
+#menu-bar li {
+    display: inline-block;
+    padding: 15px 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#container{
+    text-align: center;
+    padding: 50px 100px;
+}
+
+#about-img{
+    width: 100%;
+}
+
+#jus{
+    text-align: justify;
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
